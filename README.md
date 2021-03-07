@@ -12,5 +12,6 @@ The **CoronaVirus Voice Assistant** is written in **Python**. The Voice Assistan
 ## 👩‍💻 How is it made?
 
 * For this project I used ParseHub for web-scraping.
+* The website for collecting the data is [worldometers](https://www.worldometers.info/coronavirus/)
 * Python Speech Recognition
 * Python text to speech
